@@ -1,5 +1,7 @@
+<!--
 #### Details Link
 https://learn.sparkfun.com/tutorials/sik-experiment-guide-for-arduino---v32/experiment-9-using-a-flex-sensor
+-->
 
 #### Code 1
 ![0](https://user-images.githubusercontent.com/92329466/227708982-a601daa2-1baa-483e-9a4e-406312132799.png)
