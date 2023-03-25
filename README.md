@@ -1,4 +1,4 @@
-# iot-
+# IoT
 
 #### Tinkercad Link
 - https://www.tinkercad.com/joinclass/T36CUVPWC
