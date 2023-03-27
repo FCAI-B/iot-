@@ -1,5 +1,8 @@
 # IoT
 
+#### Zoom Link
+- https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
+
 #### Tinkercad Link
 - https://www.tinkercad.com/joinclass/T36CUVPWC
 - Could you please log in with your Edu Mail so I can know who you are.
