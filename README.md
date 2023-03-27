@@ -2,6 +2,7 @@
 
 #### Zoom Link
 - https://us05web.zoom.us/j/83518532308?pwd=NXNJVXRTZmQ0dnhuU3A5ODNtanBRUT09
+- Monday @ 9:00 pm 
 
 #### Tinkercad Link
 - https://www.tinkercad.com/joinclass/T36CUVPWC
