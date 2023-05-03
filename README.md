@@ -3,6 +3,8 @@
 #### Quizzes
 - "Chapter 3 Quiz" is now open. We have to solve it before 9 May.
 - "Chapter 4 Quiz" is now open. We have to solve it before 9 May.
+- "End of Course Assessment" is now open. We have to solve it before 9 May.
+  - (to be able to take this assessment, we need to do the End of Course Survey first)
 <!-- - "Chapter 2 Quiz" is now open. We have to solve it before 15 April. -->
 <!-- - "Chapter 1 Quiz" is now open. We have to solve it before 17 March. -->
 - Oral degrees will depend on these online quizzes.
