@@ -1,7 +1,9 @@
 # IoT
 
 #### Quizzes
-- "Chapter 2 Quiz" is now open. We have to solve it before 15 April.
+- "Chapter 3 Quiz" is now open. We have to solve it before 9 May.
+- "Chapter 4 Quiz" is now open. We have to solve it before 9 May.
+<!-- - "Chapter 2 Quiz" is now open. We have to solve it before 15 April. -->
 <!-- - "Chapter 1 Quiz" is now open. We have to solve it before 17 March. -->
 - Oral degrees will depend on these online quizzes.
 
